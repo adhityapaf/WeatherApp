@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">Weather App</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="current_date">Sunday, 5 September 2021</string>
+    <string name="placeholder_location">Denpasar, Bali</string>
+    <string name="celcius_degree">℃</string>
+    <string name="placeholder_temp">.</string>
+    <string name="add_own_town">Add own town</string>
+    <string name="type_town_here">Type town here..</string>
 </resources>
